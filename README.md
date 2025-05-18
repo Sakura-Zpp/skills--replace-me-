@@ -1,8 +1,8 @@
-# (replace-me: Exercise title)
+## (replace-me: yes)
 
 _(replace-me: One-line description of the exercise)_
 
-## Welcome
+### Welcome
 
 - **Who is this for**: (replace-me: Target audience description)
 - **What you'll learn**: (replace-me: Learning objectives)
